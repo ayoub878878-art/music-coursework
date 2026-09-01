@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Billboard Hot 100 lyrics analysis
+description: An R analysis of lyrical structure, chart position and change from 2000 to 2023.
+

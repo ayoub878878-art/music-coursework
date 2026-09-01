@@ -1,0 +1,13 @@
+check,actual,expected,passed
+raw_rows,3397,3397,TRUE
+audio_missing_rows,2911,2911,TRUE
+audio_missing_percent_rounded_1dp,85.7,85.7,TRUE
+audio_available_rows,486,486,TRUE
+audio_available_rows_2000_2004,483,483,TRUE
+eligible_source_rows,3397,3397,TRUE
+unique_year_rank_groups,2393,2393,TRUE
+multirow_year_rank_groups,791,791,TRUE
+nonidentical_raw_lyric_groups,169,169,TRUE
+extra_source_rows_collapsed,1004,1004,TRUE
+final_analysis_rows,2392,2392,TRUE
+unique_track_ids,2169,2169,TRUE

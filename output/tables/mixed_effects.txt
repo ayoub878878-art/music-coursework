@@ -1,0 +1,5 @@
+year_random_intercept_sd = 0
+      (Intercept)        word_count              mtld   avg_word_length 
+            0.245             1.136             1.061             0.998 
+ repetition_score       hapax_ratio compression_ratio 
+            0.984             0.886             0.878 

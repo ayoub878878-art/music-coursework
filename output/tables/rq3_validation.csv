@@ -1,0 +1,13 @@
+metric,value
+training_rows,1894
+test_rows,498
+shared_test_rows,11
+shared_track_ids,11
+test_auc,0.5579732158679527
+permutation_p,0.1065
+boot_auc_lo,0.48791319784831616
+boot_auc_hi,0.6246852175983993
+rolling_mean_auc,0.5317902488084867
+rolling_sd_auc,0.07099691618922907
+rolling_min_auc,0.42236842105263156
+rolling_max_auc,0.621875

@@ -1,0 +1,4 @@
+[16:44:47] Imported 3397 source rows.
+[16:44:47] Spotify audio fields are missing for 2911 of 3397 rows (85.7%). 483 of the 486 audio-complete rows are from 2000-2004; only three are later.
+[16:44:48] Collapsed 3397 source rows into 2393 year-rank groups. Of the multirow groups, 169 contained more than one raw lyric text; the first text was retained.
+[16:45:08] Analysis rows: 2392; unique track IDs: 2169; top-20 share: 19.9%

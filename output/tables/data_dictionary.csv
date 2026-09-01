@@ -1,0 +1,16 @@
+variable,definition
+rowid,Row number assigned after year-rank deduplication
+track_id,"Song URL, then Spotify URI, then normalised song title used as the track identifier"
+year,Billboard year-end chart year
+period,Six-year descriptive period
+rank,Position in the Billboard year-end Hot 100
+top_20,top20 when rank is 1-20; other when rank is 21-100
+word_count,Number of word tokens after lyric cleaning
+mtld,Measure of Textual Lexical Diversity; calculated forwards and backwards with threshold 0.72
+avg_word_length,Mean number of characters per cleaned word token
+repetition_score,Frequency of the most common non-stopword divided by the number of non-stopword tokens
+hapax_ratio,Number of word types occurring once divided by the total number of word tokens
+compression_ratio,gzip-compressed byte length divided by the byte length of the cleaned lyric; lower values indicate more compressible text
+ttr,Number of distinct word types divided by word tokens; retained only for the length diagnostic
+song,Song title retained from the first row in each year-rank group
+artist,Artist names combined within each year-rank group
